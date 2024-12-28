@@ -5,7 +5,7 @@ TIMESTAMP=$(date "+%Y%m%d_%H%M%S")
 LOG_FILE="system_info_$TIMESTAMP.log"
 
 # 1. Your Name
-MY_NAME="Aiman Zafar"  # Replace with your name
+MY_NAME="Aiman Zafar"  
 
 # 2. System Name
 SYSTEM_NAME=$(hostname)
